@@ -23,7 +23,7 @@
                 TextColor="{StaticResource Primary}" />
 
         <Border Padding="10"
-                BackgroundColor="#F1DABF"
+                BackgroundColor="#222222"
                 StrokeShape="RoundRectangle 10">
             <VerticalStackLayout>
                 <Grid RowDefinitions="Auto, Auto"
